@@ -3,3 +3,5 @@
 
 ![Screenshot](jsoncsharpclassgenerator-screenshot-narrow.png)
 ![Code](jsoncsharpclassgenerator-files-code.png)
+
+Source: Codeplex by http://www.ndepend.com/
